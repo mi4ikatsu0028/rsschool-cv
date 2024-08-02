@@ -1,0 +1,1 @@
+Deploy: https://mi4ikatsu0028.github.io/rsschool-cv/
