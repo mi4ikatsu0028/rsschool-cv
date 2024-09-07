@@ -10,8 +10,9 @@ Email - romo4ka0128@gmail.com
 4. Hi! Ever since I was at school, I wanted to connect my life with IT technologies, thanks to Rolling Scopes, I will be able to fulfill my dream and start my path in development!
 
 5. Skills:  
-  Git  
+  Git    
   GitHub  
+  Gh-pages    
   HTML  
   CSS  
   JS  
@@ -20,7 +21,7 @@ Email - romo4ka0128@gmail.com
   Photoshop  
   Figma
 
-6.  Code example (from Codewars): Function which translates a given DNA string into RNA:
+7.  Code example (from Codewars): Function which translates a given DNA string into RNA:
 
 
 ```
