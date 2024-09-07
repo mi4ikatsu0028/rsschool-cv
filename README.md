@@ -1,1 +1,1 @@
-Hello, world!
+Deploy: https://mi4ikatsu0028.github.io/rsschool-cv/cv.md
